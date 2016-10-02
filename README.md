@@ -10,5 +10,5 @@ Now you should be able to find the main file `DigitRecognizerDNN.py` in `scripts
 
 When you run `DigitRecognizerDNN.py` with `python` command in the terminal, you will obtain the results in the `results` folder.
 
-In my experiment, I got a public score of `0.96000`. Since this project just simply feed the DNN with the vector representation of the images, the 2-dimensional structure information of the images have been obviously missing. So if CNN is used, the score should be even higher. The CNN solution will be given soon.
+In my experiment, I got a public score of `0.96000`. Since this project just simply feeds the DNN with the vector representation of the images, the 2-dimensional structure information of the images have been obviously missing. So if CNN is used, the score should be even higher. The CNN solution will be given soon.
 
